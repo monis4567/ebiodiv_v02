@@ -1,0 +1,80 @@
+"blast_unfilt_fam","blast_unfilt_genus_species","blast_filt_fam","blast_filt_genus_species","source","note","Oceanic_region","commentary","ngs_metabarcode_libr_nm","seq.rd.cnt"
+"Acanthuridae","Acanthurus sohal","none","none","unfilt_all",NA,NA,NA,"b013",64
+"Platytroctidae","Maulisia mauli","none","none","unfilt_all",NA,NA,NA,"b013",30
+"Carangidae","Scomberoides commersonnianus","none","none","unfilt_all",NA,NA,NA,"b013",13
+"Kyphosidae","Kyphosus cinerascens","Scombridae","Auxis rochei","unfilt_all",NA,NA,NA,"b013",88
+"Gobiidae","Gobius niger","Gobiidae","Gobius niger","unfilt_all",NA,NA,NA,"b013",461
+"Gobiidae","Gobiusculus flavescens","Gobiidae","Gobiusculus flavescens","unfilt_all",NA,NA,NA,"b013",256
+"Gobiidae","Neogobius melanostomus","Gobiidae","Neogobius melanostomus","unfilt_all",NA,NA,NA,"b013",89
+"Labridae","Ctenolabrus rupestris","Labridae","Ctenolabrus rupestris","unfilt_all",NA,NA,NA,"b013",91
+"Labridae","Scarus ferrugineus","none","none","unfilt_all",NA,NA,NA,"b013",84
+"Labridae","Scarus russelii","none","none","unfilt_all",NA,NA,NA,"b013",25
+"Haemulidae","Plectorhinchus schotaf","none","none","unfilt_all",NA,NA,NA,"b013",66
+"Lutjanidae","Lutjanus argentimaculatus","Polyprionidae","Polyprion americanus","unfilt_all",NA,NA,NA,"b013",94
+"Myctophidae","Lampanyctus crocodilus","none","none","unfilt_all",NA,NA,NA,"b013",50
+"Monodactylidae","Monodactylus argenteus","Polyprionidae","Polyprion americanus","unfilt_all",NA,NA,NA,"b013",20
+"Pomacanthidae","Pomacanthus maculosus","none","none","unfilt_all",NA,NA,NA,"b013",83
+"Sphyraenidae","Sphyraena jello","none","none","unfilt_all",NA,NA,NA,"b013",26
+"Gasterosteidae","Gasterosteus aculeatus","Gasterosteidae","Gasterosteus aculeatus","unfilt_all",NA,NA,NA,"b013",24
+"Serranidae","Epinephelus areolatus","none","none","unfilt_all",NA,NA,NA,"b013",13
+"Zoarcidae","Zoarces fedorovi","Zoarcidae","Zoarces viviparus","unfilt_all",NA,NA,NA,"b013",447
+"Paralichthyidae","Pseudorhombus arsius","none","none","unfilt_all",NA,NA,NA,"b013",13
+"Lethrinidae","Lethrinus atkinsoni","none","none","unfilt_all",NA,NA,NA,"b013",56
+"Lethrinidae","Lethrinus nebulosus","none","none","unfilt_all",NA,NA,NA,"b013",100
+"Sparidae","Acanthopagrus bifasciatus","Sparidae","Sparus aurata","unfilt_all",NA,NA,NA,"b013",13
+"Sparidae","Lagodon rhomboides","none","none","unfilt_all",NA,NA,NA,"b013",48
+"Mullidae","Parupeneus multifasciatus","Scombridae","Euthynnus alletteratus","unfilt_all",NA,NA,NA,"b013",17
+"Syngnathidae","Nerophis ophidion","Syngnathidae","Nerophis ophidion","unfilt_all",NA,NA,NA,"b013",17
+"Syngnathidae","Syngnathus abaster","Syngnathidae","Syngnathus typhle","unfilt_all",NA,NA,NA,"b013",150
+"Candidatus Nanosynbacteraceae","Candidatus Nanosynbacter lyticus","none","none","unfilt_all",NA,NA,NA,"b013",102
+"Carcharhinidae","Carcharhinus plumbeus","Carcharhinidae","Prionace glauca","unfilt_all",NA,NA,NA,"b013",73
+"Potamotrygonidae","Taeniura meyeni","Dasyatidae","Dasyatis pastinaca","unfilt_all",NA,NA,NA,"b013",15
+"Ginglymostomatidae","Nebrius ferrugineus","Alopiidae","Cetorhinus maximus","unfilt_all",NA,NA,NA,"b013",68
+"Rhinobatidae","Rhinobatos hynnicephalus","none","none","unfilt_all",NA,NA,NA,"b013",24
+"none","none","none","none","unfilt_all",NA,NA,NA,"b013",1437
+"Prochlorococcaceae","Cyanobium sp. PCC 7009","none","none","unfilt_all",NA,NA,NA,"b013",67
+"Chlorellaceae","Chlorella vulgaris","none","none","unfilt_all",NA,NA,NA,"b013",293
+"Chlorellaceae","Marvania geminata","none","none","unfilt_all",NA,NA,NA,"b013",404
+"Kyphosidae","Kyphosus cinerascens","Scombridae","Auxis rochei","filt_excl_none",NA,NA,NA,"b013",88
+"Gobiidae","Gobius niger","Gobiidae","Gobius niger","filt_excl_none",NA,NA,NA,"b013",461
+"Gobiidae","Gobiusculus flavescens","Gobiidae","Gobiusculus flavescens","filt_excl_none",NA,NA,NA,"b013",256
+"Gobiidae","Neogobius melanostomus","Gobiidae","Neogobius melanostomus","filt_excl_none",NA,NA,NA,"b013",89
+"Labridae","Ctenolabrus rupestris","Labridae","Ctenolabrus rupestris","filt_excl_none",NA,NA,NA,"b013",91
+"Lutjanidae","Lutjanus argentimaculatus","Polyprionidae","Polyprion americanus","filt_excl_none",NA,NA,NA,"b013",94
+"Monodactylidae","Monodactylus argenteus","Polyprionidae","Polyprion americanus","filt_excl_none",NA,NA,NA,"b013",20
+"Gasterosteidae","Gasterosteus aculeatus","Gasterosteidae","Gasterosteus aculeatus","filt_excl_none",NA,NA,NA,"b013",24
+"Zoarcidae","Zoarces fedorovi","Zoarcidae","Zoarces viviparus","filt_excl_none",NA,NA,NA,"b013",447
+"Sparidae","Acanthopagrus bifasciatus","Sparidae","Sparus aurata","filt_excl_none",NA,NA,NA,"b013",13
+"Mullidae","Parupeneus multifasciatus","Scombridae","Euthynnus alletteratus","filt_excl_none",NA,NA,NA,"b013",17
+"Syngnathidae","Nerophis ophidion","Syngnathidae","Nerophis ophidion","filt_excl_none",NA,NA,NA,"b013",17
+"Syngnathidae","Syngnathus abaster","Syngnathidae","Syngnathus typhle","filt_excl_none",NA,NA,NA,"b013",150
+"Carcharhinidae","Carcharhinus plumbeus","Carcharhinidae","Prionace glauca","filt_excl_none",NA,NA,NA,"b013",73
+"Potamotrygonidae","Taeniura meyeni","Dasyatidae","Dasyatis pastinaca","filt_excl_none",NA,NA,NA,"b013",15
+"Ginglymostomatidae","Nebrius ferrugineus","Alopiidae","Cetorhinus maximus","filt_excl_none",NA,NA,NA,"b013",68
+"Acanthuridae","Acanthurus sohal","none","none","unfilt_only_Actinopterygi",NA,NA,NA,"b013",64
+"Platytroctidae","Maulisia mauli","none","none","unfilt_only_Actinopterygi",NA,NA,NA,"b013",30
+"Carangidae","Scomberoides commersonnianus","none","none","unfilt_only_Actinopterygi",NA,NA,NA,"b013",13
+"Kyphosidae","Kyphosus cinerascens","Scombridae","Auxis rochei","unfilt_only_Actinopterygi",NA,NA,NA,"b013",88
+"Gobiidae","Gobius niger","Gobiidae","Gobius niger","unfilt_only_Actinopterygi",NA,NA,NA,"b013",461
+"Gobiidae","Gobiusculus flavescens","Gobiidae","Gobiusculus flavescens","unfilt_only_Actinopterygi",NA,NA,NA,"b013",256
+"Gobiidae","Neogobius melanostomus","Gobiidae","Neogobius melanostomus","unfilt_only_Actinopterygi",NA,NA,NA,"b013",89
+"Labridae","Ctenolabrus rupestris","Labridae","Ctenolabrus rupestris","unfilt_only_Actinopterygi",NA,NA,NA,"b013",91
+"Labridae","Scarus ferrugineus","none","none","unfilt_only_Actinopterygi",NA,NA,NA,"b013",84
+"Labridae","Scarus russelii","none","none","unfilt_only_Actinopterygi",NA,NA,NA,"b013",25
+"Haemulidae","Plectorhinchus schotaf","none","none","unfilt_only_Actinopterygi",NA,NA,NA,"b013",66
+"Lutjanidae","Lutjanus argentimaculatus","Polyprionidae","Polyprion americanus","unfilt_only_Actinopterygi",NA,NA,NA,"b013",94
+"Myctophidae","Lampanyctus crocodilus","none","none","unfilt_only_Actinopterygi",NA,NA,NA,"b013",50
+"Monodactylidae","Monodactylus argenteus","Polyprionidae","Polyprion americanus","unfilt_only_Actinopterygi",NA,NA,NA,"b013",20
+"Pomacanthidae","Pomacanthus maculosus","none","none","unfilt_only_Actinopterygi",NA,NA,NA,"b013",83
+"Sphyraenidae","Sphyraena jello","none","none","unfilt_only_Actinopterygi",NA,NA,NA,"b013",26
+"Gasterosteidae","Gasterosteus aculeatus","Gasterosteidae","Gasterosteus aculeatus","unfilt_only_Actinopterygi",NA,NA,NA,"b013",24
+"Serranidae","Epinephelus areolatus","none","none","unfilt_only_Actinopterygi",NA,NA,NA,"b013",13
+"Zoarcidae","Zoarces fedorovi","Zoarcidae","Zoarces viviparus","unfilt_only_Actinopterygi",NA,NA,NA,"b013",447
+"Paralichthyidae","Pseudorhombus arsius","none","none","unfilt_only_Actinopterygi",NA,NA,NA,"b013",13
+"Lethrinidae","Lethrinus atkinsoni","none","none","unfilt_only_Actinopterygi",NA,NA,NA,"b013",56
+"Lethrinidae","Lethrinus nebulosus","none","none","unfilt_only_Actinopterygi",NA,NA,NA,"b013",100
+"Sparidae","Acanthopagrus bifasciatus","Sparidae","Sparus aurata","unfilt_only_Actinopterygi",NA,NA,NA,"b013",13
+"Sparidae","Lagodon rhomboides","none","none","unfilt_only_Actinopterygi",NA,NA,NA,"b013",48
+"Mullidae","Parupeneus multifasciatus","Scombridae","Euthynnus alletteratus","unfilt_only_Actinopterygi",NA,NA,NA,"b013",17
+"Syngnathidae","Nerophis ophidion","Syngnathidae","Nerophis ophidion","unfilt_only_Actinopterygi",NA,NA,NA,"b013",17
+"Syngnathidae","Syngnathus abaster","Syngnathidae","Syngnathus typhle","unfilt_only_Actinopterygi",NA,NA,NA,"b013",150

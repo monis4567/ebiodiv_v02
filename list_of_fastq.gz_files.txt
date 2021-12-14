@@ -1,0 +1,18 @@
+total 7315269
+-rwx------ 1 phq599 hologenomics 521988188 Jun 30 14:43 b009_S5_L001_R1_001.fastq.gz
+-rwx------ 1 phq599 hologenomics 640514120 Jun 28 19:01 b009_S5_L001_R2_001.fastq.gz
+-rwx------ 1 phq599 hologenomics 432428610 Jun 28 19:01 b010_S6_L001_R1_001.fastq.gz
+-rwx------ 1 phq599 hologenomics 534736615 Jun 28 19:01 b010_S6_L001_R2_001.fastq.gz
+-rwx------ 1 phq599 hologenomics 105976440 Jun 28 19:01 b011_S7_L001_R1_001.fastq.gz
+-rwx------ 1 phq599 hologenomics 130203359 Jun 28 19:01 b011_S7_L001_R2_001.fastq.gz
+-rwx------ 1 phq599 hologenomics 358904923 Jun 28 19:02 b012_S8_L001_R1_001.fastq.gz
+-rwx------ 1 phq599 hologenomics 440566990 Jun 28 19:02 b012_S8_L001_R2_001.fastq.gz
+-rwx------ 1 phq599 hologenomics 505468935 Jun 28 19:02 b013_S1_L001_R1_001.fastq.gz
+-rwx------ 1 phq599 hologenomics 628501492 Jun 28 19:02 b013_S1_L001_R2_001.fastq.gz
+-rwx------ 1 phq599 hologenomics 620285852 Jun 28 19:03 b014_S2_L001_R1_001.fastq.gz
+-rwx------ 1 phq599 hologenomics 756761602 Jun 28 19:03 b014_S2_L001_R2_001.fastq.gz
+-rwx------ 1 phq599 hologenomics 425649840 Jun 28 19:03 b015_S3_L001_R1_001.fastq.gz
+-rwx------ 1 phq599 hologenomics 526261863 Jun 28 19:03 b015_S3_L001_R2_001.fastq.gz
+-rwx------ 1 phq599 hologenomics 409545762 Jun 28 19:03 b016_S4_L001_R1_001.fastq.gz
+-rwx------ 1 phq599 hologenomics 505177043 Jun 28 19:03 b016_S4_L001_R2_001.fastq.gz
+-rw-r--r-- 1 phq599 hologenomics         0 Jun 30 19:23 list_of_fastq.gz_files.txt

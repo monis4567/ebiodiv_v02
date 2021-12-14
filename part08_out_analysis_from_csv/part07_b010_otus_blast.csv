@@ -1,0 +1,535 @@
+"blast_unfilt_fam","blast_unfilt_genus_species","blast_filt_fam","blast_filt_genus_species","source","note","Oceanic_region","commentary","ngs_metabarcode_libr_nm","seq.rd.cnt"
+"Ilumatobacteraceae","Ilumatobacter nonamiensis","none","none","unfilt_all",NA,NA,NA,"b010",45
+"Acidothermaceae","Acidothermus cellulolyticus","none","none","unfilt_all",NA,NA,NA,"b010",19
+"none","actinobacterium enrichment culture clone LiUU-12-58","none","none","unfilt_all",NA,NA,NA,"b010",296
+"none","actinobacterium SCGC AAA003-L19","none","none","unfilt_all",NA,NA,NA,"b010",322
+"none","actinobacterium SCGC AAA027-D23","none","none","unfilt_all",NA,NA,NA,"b010",892
+"none","actinobacterium SCGC AAA027-E14","none","none","unfilt_all",NA,NA,NA,"b010",1205
+"none","actinobacterium SCGC AAA027-F04","none","none","unfilt_all",NA,NA,NA,"b010",1395
+"none","actinobacterium SCGC AAA027-I20","none","none","unfilt_all",NA,NA,NA,"b010",45
+"none","actinobacterium SCGC AAA027-L17","none","none","unfilt_all",NA,NA,NA,"b010",94
+"none","actinobacterium SCGC AAA041-I06","none","none","unfilt_all",NA,NA,NA,"b010",53
+"none","actinobacterium SCGC AAA043-I11","none","none","unfilt_all",NA,NA,NA,"b010",1470
+"none","actinobacterium SCGC AAA163-G08","none","none","unfilt_all",NA,NA,NA,"b010",114
+"none","actinobacterium SCGC AAA278-D08","none","none","unfilt_all",NA,NA,NA,"b010",638
+"none","actinobacterium SCGC AAA278-O13","none","none","unfilt_all",NA,NA,NA,"b010",486
+"none","actinobacterium SCGC AAA487-C14","none","none","unfilt_all",NA,NA,NA,"b010",3849
+"Acanthuridae","Acanthurus olivaceus","none","none","unfilt_all",NA,NA,NA,"b010",612
+"Atherinidae","Atherinomorus forskalii","none","none","unfilt_all",NA,NA,NA,"b010",24
+"Carangidae","Scomberoides commersonnianus","none","none","unfilt_all",NA,NA,NA,"b010",14
+"Kyphosidae","Kyphosus elegans","Scombridae","Thunnus thynnus","unfilt_all",NA,NA,NA,"b010",423
+"Moridae","Antimora microlepis","none","none","unfilt_all",NA,NA,NA,"b010",41
+"Gobiidae","Nemateleotris magnifica","Pleuronectidae","Hippoglossus hippoglossus","unfilt_all",NA,NA,NA,"b010",744
+"Gobiidae","Pomatoschistus minutus","Gobiidae","Pomatoschistus minutus","unfilt_all",NA,NA,NA,"b010",391
+"Labridae","Scarus schlegeli","none","none","unfilt_all",NA,NA,NA,"b010",141
+"Haemulidae","Plectorhinchus chaetodonoides","none","none","unfilt_all",NA,NA,NA,"b010",2599
+"Haemulidae","Plectorhinchus lessonii","none","none","unfilt_all",NA,NA,NA,"b010",76
+"Lutjanidae","Pinjalo pinjalo","none","none","unfilt_all",NA,NA,NA,"b010",108
+"Pomacanthidae","Pomacanthus xanthometopon","none","none","unfilt_all",NA,NA,NA,"b010",422
+"Lethrinidae","Lethrinus atkinsoni","none","none","unfilt_all",NA,NA,NA,"b010",13
+"Lethrinidae","Lethrinus nebulosus","Cyclopteridae","Cyclopterus lumpus","unfilt_all",NA,NA,NA,"b010",189
+"Mullidae","Parupeneus indicus","none","none","unfilt_all",NA,NA,NA,"b010",92
+"Syngnathidae","Syngnathus typhle","Syngnathidae","Syngnathus typhle","unfilt_all",NA,NA,NA,"b010",370
+"Uranoscopidae","Uranoscopus chinensis","none","none","unfilt_all",NA,NA,NA,"b010",16
+"Caulobacteraceae","alpha proteobacterium VUN10077","none","none","unfilt_all",NA,NA,NA,"b010",23
+"Caulobacteraceae","Brevundimonas albigilva","none","none","unfilt_all",NA,NA,NA,"b010",26
+"Caulobacteraceae","Brevundimonas sp. BNA-7","none","none","unfilt_all",NA,NA,NA,"b010",25
+"Caulobacteraceae","Brevundimonas sp. JPB-1.09","none","none","unfilt_all",NA,NA,NA,"b010",425
+"Caulobacteraceae","Brevundimonas sp. S3","none","none","unfilt_all",NA,NA,NA,"b010",77
+"Caulobacteraceae","Brevundimonas sp. s50-11-m13-48","none","none","unfilt_all",NA,NA,NA,"b010",289
+"Caulobacteraceae","Brevundimonas sp. SH203","none","none","unfilt_all",NA,NA,NA,"b010",33
+"Caulobacteraceae","Brevundimonas sp. SW4","none","none","unfilt_all",NA,NA,NA,"b010",13
+"Caulobacteraceae","Brevundimonas sp. WPCB153","Molidae","Mola mola","unfilt_all",NA,NA,NA,"b010",17
+"Caulobacteraceae","Caulobacter sp. CCGE4014","none","none","unfilt_all",NA,NA,NA,"b010",32
+"Caulobacteraceae","Caulobacter sp. P-7Y","none","none","unfilt_all",NA,NA,NA,"b010",59
+"Holosporaceae","Candidatus Gortzia infectiva","none","none","unfilt_all",NA,NA,NA,"b010",214
+"Holosporaceae","Candidatus Gortzia shahrazadis","none","none","unfilt_all",NA,NA,NA,"b010",14
+"Holosporaceae","endosymbiont of Acanthamoeba sp. UWC8","none","none","unfilt_all",NA,NA,NA,"b010",141
+"Beijerinckiaceae","Rhodoblastus sp. BJC15-D13","none","none","unfilt_all",NA,NA,NA,"b010",63
+"Devosiaceae","Devosia sp.","none","none","unfilt_all",NA,NA,NA,"b010",33
+"Devosiaceae","Devosia sp. PE-RO8-11","none","none","unfilt_all",NA,NA,NA,"b010",16
+"Hyphomicrobiaceae","Hyphomicrobiaceae bacterium enrichment culture clone CTBE CDB1001A11","none","none","unfilt_all",NA,NA,NA,"b010",17
+"Hyphomicrobiaceae","Hyphomicrobium sp. YAAJ-4","none","none","unfilt_all",NA,NA,NA,"b010",27
+"Parvibaculaceae","Anderseniella baltica","none","none","unfilt_all",NA,NA,NA,"b010",164
+"Parvibaculaceae","Anderseniella sp.","none","none","unfilt_all",NA,NA,NA,"b010",89
+"Phyllobacteriaceae","Aminobacter aminovorans","none","none","unfilt_all",NA,NA,NA,"b010",385
+"Rhizobiaceae","Ensifer adhaerens","none","none","unfilt_all",NA,NA,NA,"b010",25
+"Rhizobiaceae","Rhizobium sp. B3115","none","none","unfilt_all",NA,NA,NA,"b010",19
+"Rhizobiaceae","Rhizobium sp. Crb31","none","none","unfilt_all",NA,NA,NA,"b010",41
+"Rhizobiaceae","Sinorhizobium americanum","none","none","unfilt_all",NA,NA,NA,"b010",13
+"Rhizobiaceae","Sinorhizobium fredii","none","none","unfilt_all",NA,NA,NA,"b010",16
+"Stappiaceae","Labrenzia sp.","none","none","unfilt_all",NA,NA,NA,"b010",39
+"Hyphomonadaceae","Hyphomonadaceae bacterium JC2234","none","none","unfilt_all",NA,NA,NA,"b010",102
+"Hyphomonadaceae","Hyphomonas sp. DG1448","none","none","unfilt_all",NA,NA,NA,"b010",28
+"Robiginitomaculaceae","Litorimonas sp. JNU-L054","none","none","unfilt_all",NA,NA,NA,"b010",29
+"Robiginitomaculaceae","Litorimonas taeanensis","none","none","unfilt_all",NA,NA,NA,"b010",1308
+"none","alpha proteobacterium DG1442","none","none","unfilt_all",NA,NA,NA,"b010",130
+"none","alpha proteobacterium enrichment culture DGGE gel band PCA17","none","none","unfilt_all",NA,NA,NA,"b010",272
+"none","alpha proteobacterium SCGC AAA015-I02","none","none","unfilt_all",NA,NA,NA,"b010",53
+"none","alpha proteobacterium SCGC AAA076-A02","none","none","unfilt_all",NA,NA,NA,"b010",77
+"none","alpha proteobacterium SCGC AAA076-E09","none","none","unfilt_all",NA,NA,NA,"b010",236
+"none","alpha proteobacterium SCGC AAA076-I20","none","none","unfilt_all",NA,NA,NA,"b010",118
+"none","alpha proteobacterium SCGC AAA158-A21","none","none","unfilt_all",NA,NA,NA,"b010",16
+"none","alpha proteobacterium SCGC AAA158-B04","none","none","unfilt_all",NA,NA,NA,"b010",170
+"none","alpha proteobacterium SCGC AAA158-E02","none","none","unfilt_all",NA,NA,NA,"b010",65
+"none","alpha proteobacterium SCGC AAA160-B02","none","none","unfilt_all",NA,NA,NA,"b010",145
+"none","alpha proteobacterium SCGC AAA160-M08","none","none","unfilt_all",NA,NA,NA,"b010",56
+"none","alpha proteobacterium SCGC AAA166-J08","none","none","unfilt_all",NA,NA,NA,"b010",91
+"none","alpha proteobacterium SCGC AAA300-C10","none","none","unfilt_all",NA,NA,NA,"b010",55
+"none","alpha proteobacterium SCGC AAA487-I17","none","none","unfilt_all",NA,NA,NA,"b010",77
+"none","alpha proteobacterium wj11","none","none","unfilt_all",NA,NA,NA,"b010",27
+"none","Alphaproteobacteria bacterium GUDS1251","none","none","unfilt_all",NA,NA,NA,"b010",24
+"none","bacterium episymbiont of Kiwa sp.","none","none","unfilt_all",NA,NA,NA,"b010",55
+"none","endosymbiont of Chlamys farreri","none","none","unfilt_all",NA,NA,NA,"b010",23
+"Parvularculaceae","Aquisalinus flavus","none","none","unfilt_all",NA,NA,NA,"b010",16
+"Rhodobacteraceae","Oceanicella actignis","none","none","unfilt_all",NA,NA,NA,"b010",73
+"Rhodobacteraceae","Paracoccus carotinifaciens","none","none","unfilt_all",NA,NA,NA,"b010",69
+"Rhodobacteraceae","Paracoccus contaminans","none","none","unfilt_all",NA,NA,NA,"b010",28
+"Rhodobacteraceae","Paracoccus sp. 1MN-3","none","none","unfilt_all",NA,NA,NA,"b010",51
+"Rhodobacteraceae","Paracoccus sp. Cap_B11","none","none","unfilt_all",NA,NA,NA,"b010",293
+"Rhodobacteraceae","Paracoccus sp. DHHS10","none","none","unfilt_all",NA,NA,NA,"b010",75
+"Rhodobacteraceae","Paracoccus sp. FG-2","none","none","unfilt_all",NA,NA,NA,"b010",24
+"Rhodobacteraceae","Paracoccus sp. GWS-BW-H72M","none","none","unfilt_all",NA,NA,NA,"b010",15
+"Rhodobacteraceae","Paracoccus sp. JL-64","none","none","unfilt_all",NA,NA,NA,"b010",20
+"Rhodobacteraceae","Paracoccus sp. Ld10","none","none","unfilt_all",NA,NA,NA,"b010",28
+"Rhodobacteraceae","Paracoccus sp. N81106","none","none","unfilt_all",NA,NA,NA,"b010",19
+"Rhodobacteraceae","Paracoccus sp. NPO-JL-65","none","none","unfilt_all",NA,NA,NA,"b010",667
+"Rhodobacteraceae","Paracoccus sp. SW1.6","none","none","unfilt_all",NA,NA,NA,"b010",53
+"Rhodobacteraceae","Rhodobacter sp. CR07-97","none","none","unfilt_all",NA,NA,NA,"b010",21
+"Rhodobacteraceae","Rhodobacteraceae bacterium AP-27","none","none","unfilt_all",NA,NA,NA,"b010",47
+"Rhodobacteraceae","Rhodobacteraceae bacterium Hel1_33_108","none","none","unfilt_all",NA,NA,NA,"b010",1208
+"Rhodobacteraceae","Rhodobacteraceae bacterium HJS1","none","none","unfilt_all",NA,NA,NA,"b010",14
+"Rhodobacteraceae","Rhodobacteraceae bacterium IMCC1909","none","none","unfilt_all",NA,NA,NA,"b010",1285
+"Rhodobacteraceae","Rhodobacteraceae bacterium KS2","none","none","unfilt_all",NA,NA,NA,"b010",165
+"Rhodobacteraceae","Rhodobacteraceae bacterium MOLA 108","none","none","unfilt_all",NA,NA,NA,"b010",760
+"Rhodobacteraceae","Rhodobacteraceae bacterium Ph113","none","none","unfilt_all",NA,NA,NA,"b010",78
+"Rhodobacteraceae","Rhodobacteraceae bacterium TL","none","none","unfilt_all",NA,NA,NA,"b010",56
+"Rhodobacteraceae","Rhodovulum adriaticum","none","none","unfilt_all",NA,NA,NA,"b010",47
+"Roseobacteraceae","Litoreibacter sp. HME8262","none","none","unfilt_all",NA,NA,NA,"b010",19
+"Roseobacteraceae","Loktanella sp. RCC2403","none","none","unfilt_all",NA,NA,NA,"b010",373
+"Roseobacteraceae","Pseudoruegeria sp. 2 KMM 6704","none","none","unfilt_all",NA,NA,NA,"b010",17
+"Roseobacteraceae","Roseobacter denitrificans","none","none","unfilt_all",NA,NA,NA,"b010",28
+"Roseobacteraceae","Roseobacter sp. 7m15","none","none","unfilt_all",NA,NA,NA,"b010",41
+"Roseobacteraceae","Roseobacter sp. TB44","none","none","unfilt_all",NA,NA,NA,"b010",322
+"Roseobacteraceae","Roseobacter sp. U1368-101106-SW101","none","none","unfilt_all",NA,NA,NA,"b010",16
+"Roseobacteraceae","Roseovarius aestuarii","Gadidae","Gadus morhua","unfilt_all",NA,NA,NA,"b010",17
+"Roseobacteraceae","Roseovarius sp. G709","none","none","unfilt_all",NA,NA,NA,"b010",27
+"Roseobacteraceae","Roseovarius sp. SJ1789","none","none","unfilt_all",NA,NA,NA,"b010",16
+"Roseobacteraceae","Ruegeria sp. 50C-3","none","none","unfilt_all",NA,NA,NA,"b010",57
+"Roseobacteraceae","Sulfitobacter sp.","none","none","unfilt_all",NA,NA,NA,"b010",12
+"Roseobacteraceae","Sulfitobacter sp. RCC2401","none","none","unfilt_all",NA,NA,NA,"b010",54
+"Roseobacteraceae","Sulfitobacter sp. S16","none","none","unfilt_all",NA,NA,NA,"b010",12
+"Roseobacteraceae","Sulfitobacter sp. ZS2020","none","none","unfilt_all",NA,NA,NA,"b010",24
+"Azospirillaceae","Azospirillum sp. enrichment culture clone yan50","none","none","unfilt_all",NA,NA,NA,"b010",85
+"Rhodospirillaceae","Haematospirillum jordaniae","none","none","unfilt_all",NA,NA,NA,"b010",18
+"Rhodospirillaceae","Rhodospirillaceae bacterium DG1563","none","none","unfilt_all",NA,NA,NA,"b010",14
+"Anaplasmataceae","Anaplasma ovis","none","none","unfilt_all",NA,NA,NA,"b010",26
+"none","Sinorickettsia chlamys","none","none","unfilt_all",NA,NA,NA,"b010",91
+"Rickettsiaceae","Haplosporidium sp. endosymbiont AbFoot","none","none","unfilt_all",NA,NA,NA,"b010",98
+"Rickettsiaceae","Rickettsia endosymbiont of Bemisia tabaci","none","none","unfilt_all",NA,NA,NA,"b010",12
+"Erythrobacteraceae","Altererythrobacter sp. CNU422","none","none","unfilt_all",NA,NA,NA,"b010",41
+"Erythrobacteraceae","Altererythrobacter sp. KYW2","none","none","unfilt_all",NA,NA,NA,"b010",19
+"Erythrobacteraceae","Erythrobacter sp.","none","none","unfilt_all",NA,NA,NA,"b010",365
+"Erythrobacteraceae","Erythrobacter sp. 2216.25.25","none","none","unfilt_all",NA,NA,NA,"b010",426
+"Erythrobacteraceae","Erythrobacter sp. AI-23","none","none","unfilt_all",NA,NA,NA,"b010",52
+"Erythrobacteraceae","Erythrobacter sp. DG1531","none","none","unfilt_all",NA,NA,NA,"b010",476
+"Erythrobacteraceae","Erythrobacter sp. JL-378","none","none","unfilt_all",NA,NA,NA,"b010",58
+"Erythrobacteraceae","Erythrobacter sp. JL681","none","none","unfilt_all",NA,NA,NA,"b010",12
+"Erythrobacteraceae","Erythrobacter sp. RCC 1876","none","none","unfilt_all",NA,NA,NA,"b010",13
+"Erythrobacteraceae","Erythrobacter sp. SWKLH7","none","none","unfilt_all",NA,NA,NA,"b010",318
+"Erythrobacteraceae","Erythrobacter sp. U1370-101126-SW175","none","none","unfilt_all",NA,NA,NA,"b010",54
+"Erythrobacteraceae","Pontixanthobacter gangjinensis","none","none","unfilt_all",NA,NA,NA,"b010",36
+"Erythrobacteraceae","Qipengyuania aquimaris","none","none","unfilt_all",NA,NA,NA,"b010",247
+"Erythrobacteraceae","Qipengyuania nanhaisediminis","none","none","unfilt_all",NA,NA,NA,"b010",338
+"Sphingomonadaceae","Novosphingobium marinum","none","none","unfilt_all",NA,NA,NA,"b010",243
+"Sphingomonadaceae","Novosphingobium sp. Th20","none","none","unfilt_all",NA,NA,NA,"b010",15
+"Sphingomonadaceae","Parasphingopyxis algicola","none","none","unfilt_all",NA,NA,NA,"b010",42
+"Sphingomonadaceae","Sphingomicrobium marinum","none","none","unfilt_all",NA,NA,NA,"b010",17
+"Sphingomonadaceae","Sphingomonadaceae bacterium ACEMC 19-8","none","none","unfilt_all",NA,NA,NA,"b010",19
+"Sphingomonadaceae","Sphingomonadaceae bacterium JNU-L065","none","none","unfilt_all",NA,NA,NA,"b010",15
+"Sphingomonadaceae","Sphingomonas sp. C0503","none","none","unfilt_all",NA,NA,NA,"b010",79
+"Sphingosinicellaceae","Polymorphobacter multimanifer","none","none","unfilt_all",NA,NA,NA,"b010",20
+"Laridae","Larus glaucoides","none","none","unfilt_all",NA,NA,NA,"b010",282
+"Gomphonemataceae","Didymosphenia geminata","none","none","unfilt_all",NA,NA,NA,"b010",98
+"Bacillaceae","Bacillus aerius","none","none","unfilt_all",NA,NA,NA,"b010",31
+"Bacillaceae","Sinibacillus soli","none","none","unfilt_all",NA,NA,NA,"b010",20
+"Lactobacillaceae","Leuconostoc citreum","none","none","unfilt_all",NA,NA,NA,"b010",13
+"Lactobacillaceae","Leuconostoc mesenteroides","none","none","unfilt_all",NA,NA,NA,"b010",15
+"Lactobacillaceae","Leuconostoc sp.","none","none","unfilt_all",NA,NA,NA,"b010",181
+"Lactobacillaceae","Leuconostoc sp. TPD29","none","none","unfilt_all",NA,NA,NA,"b010",24
+"Bacteroidaceae","Bacteroides neonati","none","none","unfilt_all",NA,NA,NA,"b010",20
+"Alcaligenaceae","Achromobacter piechaudii","none","none","unfilt_all",NA,NA,NA,"b010",387
+"Alcaligenaceae","Bordetella holmesii","none","none","unfilt_all",NA,NA,NA,"b010",73
+"Alcaligenaceae","Bordetella sp.","none","none","unfilt_all",NA,NA,NA,"b010",16
+"Burkholderiaceae","Formosimonas limnophila","none","none","unfilt_all",NA,NA,NA,"b010",59
+"Comamonadaceae","Acidovorax facilis","none","none","unfilt_all",NA,NA,NA,"b010",26
+"Comamonadaceae","Acidovorax sp. Ed_isolate_02","none","none","unfilt_all",NA,NA,NA,"b010",34
+"Comamonadaceae","Acidovorax sp. SEPRH9","none","none","unfilt_all",NA,NA,NA,"b010",18
+"Comamonadaceae","Comamonadaceae bacterium LSUCC0146","none","none","unfilt_all",NA,NA,NA,"b010",128
+"Comamonadaceae","Comamonadaceae bacterium LSUCC0148","none","none","unfilt_all",NA,NA,NA,"b010",2478
+"Comamonadaceae","Limnohabitans parvus","none","none","unfilt_all",NA,NA,NA,"b010",125
+"Comamonadaceae","uncultured Acidovorax sp.","none","none","unfilt_all",NA,NA,NA,"b010",101
+"Oxalobacteraceae","Herbaspirillum sp. meg3","none","none","unfilt_all",NA,NA,NA,"b010",59
+"Methylophilaceae","Methylophilaceae bacterium NB0007","none","none","unfilt_all",NA,NA,NA,"b010",205
+"Methylophilaceae","Methylophilaceae bacterium NB0008","none","none","unfilt_all",NA,NA,NA,"b010",248
+"Methylophilaceae","Methylophilaceae bacterium NB0070","none","none","unfilt_all",NA,NA,NA,"b010",568
+"Nitrosomonadaceae","Nitrosomonadaceae bacterium enrichment culture clone b185","none","none","unfilt_all",NA,NA,NA,"b010",36
+"none","Methylophilales bacterium LSUCC0227","none","none","unfilt_all",NA,NA,NA,"b010",112
+"none","beta proteobacterium IN3","none","none","unfilt_all",NA,NA,NA,"b010",22
+"none","beta proteobacterium SCGC AAA024-C09","none","none","unfilt_all",NA,NA,NA,"b010",2046
+"none","Betaproteobacteria bacterium PW-19A","none","none","unfilt_all",NA,NA,NA,"b010",297
+"none","humic substances enrichment clone E1","none","none","unfilt_all",NA,NA,NA,"b010",643
+"Triparmaceae","Triparma laevis","none","none","unfilt_all",NA,NA,NA,"b010",40
+"Caldilineaceae","Caldilinea aerophila","none","none","unfilt_all",NA,NA,NA,"b010",98
+"Chitinophagaceae","Flavisolibacter carri","none","none","unfilt_all",NA,NA,NA,"b010",14
+"none","Chlamydiales bacterium NS16","none","none","unfilt_all",NA,NA,NA,"b010",14
+"Parachlamydiaceae","Candidatus Mesochlamydia elodeae","none","none","unfilt_all",NA,NA,NA,"b010",50
+"Parachlamydiaceae","Candidatus Protochlamydia endosymbiont of Acanthamoeba sp.","none","none","unfilt_all",NA,NA,NA,"b010",37
+"Carcharhinidae","Triaenodon obesus","Carcharhinidae","Prionace glauca","unfilt_all",NA,NA,NA,"b010",424
+"Glaucostegidae","Glaucostegus formosensis","none","none","unfilt_all",NA,NA,NA,"b010",29
+"Rhynchobatidae","Rhynchobatus australiae","none","none","unfilt_all",NA,NA,NA,"b010",38
+"Rhynchobatidae","Rhynchobatus djiddensis","none","none","unfilt_all",NA,NA,NA,"b010",111
+"Clostridiaceae","Clostridium saudiense","none","none","unfilt_all",NA,NA,NA,"b010",42
+"Peptococcaceae","Peptococcus sp. canine oral taxon 334","none","none","unfilt_all",NA,NA,NA,"b010",60
+"Chaetocerotaceae","Chaetoceros socialis","none","none","unfilt_all",NA,NA,NA,"b010",18
+"Chaetocerotaceae","Chaetoceros sp. RC-2015","none","none","unfilt_all",NA,NA,NA,"b010",20
+"Coscinodiscaceae","Coscinodiscus radiatus","none","none","unfilt_all",NA,NA,NA,"b010",12
+"Thalassiosiraceae","Thalassiosira nordenskioeldii","none","none","unfilt_all",NA,NA,NA,"b010",147
+"Cytophagaceae","Cytophaga sp. BHI60-95B","none","none","unfilt_all",NA,NA,NA,"b010",1898
+"Desulfobacteraceae","Desulfobacteraceae bacterium enrichment culture clone MS_ANT_N10","none","none","unfilt_all",NA,NA,NA,"b010",16
+"Desulfobacteraceae","Desulfococcus sp.","none","none","unfilt_all",NA,NA,NA,"b010",35
+"Desulfobacteraceae","Desulforegula conservatrix","none","none","unfilt_all",NA,NA,NA,"b010",30
+"Desulfobacteraceae","Desulfosarcina ovata","none","none","unfilt_all",NA,NA,NA,"b010",15
+"Desulfobulbaceae","Desulfobulbaceae bacterium enrichment culture clone MS_ACE_N7","none","none","unfilt_all",NA,NA,NA,"b010",177
+"Desulfovibrionaceae","Desulfovibrio aerotolerans","none","none","unfilt_all",NA,NA,NA,"b010",38
+"Vulgatibacteraceae","Vulgatibacter incomptus","none","none","unfilt_all",NA,NA,NA,"b010",56
+"none","delta proteobacterium FM1A-B3","none","none","unfilt_all",NA,NA,NA,"b010",24
+"none","delta proteobacterium FM1A-F10","none","none","unfilt_all",NA,NA,NA,"b010",17
+"none","delta proteobacterium FM1C-A9","none","none","unfilt_all",NA,NA,NA,"b010",21
+"none","Olavius crassitunicatus delta-proteobacterial endosymbiont","none","none","unfilt_all",NA,NA,NA,"b010",418
+"Arcobacteraceae","Arcobacter sp. KT0913","none","none","unfilt_all",NA,NA,NA,"b010",43
+"Thiovulaceae","Sulfurimonas sp. HDNS4","none","none","unfilt_all",NA,NA,NA,"b010",16
+"Monodopsidaceae","Nannochloropsis granulata","none","none","unfilt_all",NA,NA,NA,"b010",124
+"Monodopsidaceae","Nannochloropsis limnetica","none","none","unfilt_all",NA,NA,NA,"b010",18
+"none","Flavobacteriales bacterium DG1510","none","none","unfilt_all",NA,NA,NA,"b010",153
+"Schleiferiaceae","Owenweeksia hongkongensis","none","none","unfilt_all",NA,NA,NA,"b010",379
+"Schleiferiaceae","Phaeocystidibacter marisrubri","none","none","unfilt_all",NA,NA,NA,"b010",1112
+"none","Flavobacteria bacterium Ib002","none","none","unfilt_all",NA,NA,NA,"b010",13
+"Fragilariaceae","Fragilaria sp. RCC2508","none","none","unfilt_all",NA,NA,NA,"b010",17
+"Fragilariaceae","Grammonema striatula","none","none","unfilt_all",NA,NA,NA,"b010",20
+"Fragilariaceae","Synedra hyperborea","none","none","unfilt_all",NA,NA,NA,"b010",106
+"Alteromonadaceae","Alteromonadaceae bacterium NB0071_02","none","none","unfilt_all",NA,NA,NA,"b010",23
+"Shewanellaceae","Shewanella baltica","none","none","unfilt_all",NA,NA,NA,"b010",61
+"Shewanellaceae","Shewanella sp. LMG 23023","none","none","unfilt_all",NA,NA,NA,"b010",4005
+"Shewanellaceae","Shewanella sp. MPU12","none","none","unfilt_all",NA,NA,NA,"b010",15
+"Shewanellaceae","Shewanella sp. Raj-4","none","none","unfilt_all",NA,NA,NA,"b010",21
+"Shewanellaceae","Shewanella sp. SACH","none","none","unfilt_all",NA,NA,NA,"b010",13
+"Shewanellaceae","Shewanella vesiculosa","none","none","unfilt_all",NA,NA,NA,"b010",26
+"Arenicellaceae","Perspicuibacter marinus","none","none","unfilt_all",NA,NA,NA,"b010",52
+"Cellvibrionaceae","Cellvibrio sp. R-4075","none","none","unfilt_all",NA,NA,NA,"b010",40
+"Halieaceae","Haliea sp. ETY-M","none","none","unfilt_all",NA,NA,NA,"b010",1254
+"Halieaceae","Haliea sp. SAOS-164","none","none","unfilt_all",NA,NA,NA,"b010",26
+"Halieaceae","marine gamma proteobacterium HTCC2080","none","none","unfilt_all",NA,NA,NA,"b010",442
+"Halieaceae","marine gamma proteobacterium HTCC2149","none","none","unfilt_all",NA,NA,NA,"b010",79
+"Porticoccaceae","marine gamma proteobacterium HTCC2290","none","none","unfilt_all",NA,NA,NA,"b010",53
+"Spongiibacteraceae","Sinobacterium norvegicum","none","none","unfilt_all",NA,NA,NA,"b010",658
+"Chromatiaceae","Rheinheimera aquimaris","none","none","unfilt_all",NA,NA,NA,"b010",33
+"Chromatiaceae","Rheinheimera sp. SW2.1","none","none","unfilt_all",NA,NA,NA,"b010",16
+"Ectothiorhodospiraceae","Thiogranum longum","none","none","unfilt_all",NA,NA,NA,"b010",18
+"Granulosicoccaceae","Granulosicoccus antarcticus","none","none","unfilt_all",NA,NA,NA,"b010",44
+"Granulosicoccaceae","Granulosicoccus sp. SS10.26","none","none","unfilt_all",NA,NA,NA,"b010",177
+"Wenzhouxiangellaceae","Wenzhouxiangella marina","none","none","unfilt_all",NA,NA,NA,"b010",21
+"Woeseiaceae","Woeseia oceani","none","none","unfilt_all",NA,NA,NA,"b010",55
+"Enterobacteriaceae","Buttiauxella agrestis","none","none","unfilt_all",NA,NA,NA,"b010",15
+"Enterobacteriaceae","Cronobacter sp.","none","none","unfilt_all",NA,NA,NA,"b010",15
+"Enterobacteriaceae","Enterobacter asburiae","Cottidae","Taurulus bubalis","unfilt_all",NA,NA,NA,"b010",405
+"Enterobacteriaceae","Enterobacter cloacae complex sp. ECNIH7","none","none","unfilt_all",NA,NA,NA,"b010",761
+"Enterobacteriaceae","Enterobacter hormaechei","none","none","unfilt_all",NA,NA,NA,"b010",30
+"Enterobacteriaceae","Enterobacter kobei","none","none","unfilt_all",NA,NA,NA,"b010",40
+"Enterobacteriaceae","Enterobacter sp. CiN002","none","none","unfilt_all",NA,NA,NA,"b010",1865
+"Enterobacteriaceae","Enterobacter sp. DsppB1","none","none","unfilt_all",NA,NA,NA,"b010",525
+"Enterobacteriaceae","Enterobacter sp. Y8-24","none","none","unfilt_all",NA,NA,NA,"b010",75
+"Enterobacteriaceae","Enterobacteriaceae bacterium THA3.3","none","none","unfilt_all",NA,NA,NA,"b010",17
+"Enterobacteriaceae","Klebsiella aerogenes","none","none","unfilt_all",NA,NA,NA,"b010",31
+"Enterobacteriaceae","Klebsiella pneumoniae","none","none","unfilt_all",NA,NA,NA,"b010",21
+"Enterobacteriaceae","Klebsiella quasivariicola","none","none","unfilt_all",NA,NA,NA,"b010",47
+"Enterobacteriaceae","Klebsiella sp. A10-KP6","none","none","unfilt_all",NA,NA,NA,"b010",19
+"Enterobacteriaceae","Klebsiella sp. JHW3","none","none","unfilt_all",NA,NA,NA,"b010",12
+"Enterobacteriaceae","Klebsiella sp. WH-10","none","none","unfilt_all",NA,NA,NA,"b010",91
+"Erwiniaceae","Pantoea agglomerans","none","none","unfilt_all",NA,NA,NA,"b010",22
+"Yersiniaceae","Rahnella sp. 'CDC 658-79'","none","none","unfilt_all",NA,NA,NA,"b010",47
+"Yersiniaceae","Rahnella sp. 'CDC Bonn7'","none","none","unfilt_all",NA,NA,NA,"b010",14
+"Yersiniaceae","Rahnella sp. 100-p8_C1","none","none","unfilt_all",NA,NA,NA,"b010",49
+"Yersiniaceae","Rahnella sp. DIV040","none","none","unfilt_all",NA,NA,NA,"b010",16
+"Yersiniaceae","Rahnella sp. PT135","none","none","unfilt_all",NA,NA,NA,"b010",1121
+"Yersiniaceae","Rahnella sp. WMR58","none","none","unfilt_all",NA,NA,NA,"b010",12
+"Yersiniaceae","Serratia aquatilis","none","none","unfilt_all",NA,NA,NA,"b010",103
+"Yersiniaceae","Serratia sp.","none","none","unfilt_all",NA,NA,NA,"b010",24
+"Yersiniaceae","Serratia sp. 9A_5","none","none","unfilt_all",NA,NA,NA,"b010",108
+"Yersiniaceae","Serratia sp. BLg11","none","none","unfilt_all",NA,NA,NA,"b010",64
+"Yersiniaceae","Serratia sp. EU2-07-1","none","none","unfilt_all",NA,NA,NA,"b010",727
+"Yersiniaceae","Serratia ureilytica","none","none","unfilt_all",NA,NA,NA,"b010",96
+"Yersiniaceae","Yersinia nurmii","none","none","unfilt_all",NA,NA,NA,"b010",212
+"Yersiniaceae","Yersinia pestis","none","none","unfilt_all",NA,NA,NA,"b010",2091
+"Yersiniaceae","Yersinia sp. MAC","Gobiidae","Gobius niger","unfilt_all",NA,NA,NA,"b010",1383
+"Yersiniaceae","Yersinia sp. MAC","none","none","unfilt_all",NA,NA,NA,"b010",1383
+"Coxiellaceae","Candidatus Berkiella aquae","none","none","unfilt_all",NA,NA,NA,"b010",103
+"Legionellaceae","Legionella beliardensis","none","none","unfilt_all",NA,NA,NA,"b010",73
+"Legionellaceae","Legionella fallonii","none","none","unfilt_all",NA,NA,NA,"b010",1108
+"Legionellaceae","Legionella sp. LHG-1BW4","none","none","unfilt_all",NA,NA,NA,"b010",36
+"Moraxellaceae","Acinetobacter sp. HL-14","none","none","unfilt_all",NA,NA,NA,"b010",16
+"Moraxellaceae","Psychrobacter alimentarius","none","none","unfilt_all",NA,NA,NA,"b010",95
+"Moraxellaceae","Psychrobacter celer","none","none","unfilt_all",NA,NA,NA,"b010",71
+"Moraxellaceae","Psychrobacter marincola","none","none","unfilt_all",NA,NA,NA,"b010",101
+"Moraxellaceae","Psychrobacter pacificensis","none","none","unfilt_all",NA,NA,NA,"b010",170
+"Moraxellaceae","Psychrobacter sp. 10AR","none","none","unfilt_all",NA,NA,NA,"b010",18
+"Moraxellaceae","Psychrobacter sp. 4-Z18","none","none","unfilt_all",NA,NA,NA,"b010",47
+"Moraxellaceae","Psychrobacter sp. A1-1","none","none","unfilt_all",NA,NA,NA,"b010",177
+"Moraxellaceae","Psychrobacter sp. ANT9171","none","none","unfilt_all",NA,NA,NA,"b010",33
+"Moraxellaceae","Psychrobacter sp. Asnod3F05","Labridae","Ctenolabrus rupestris","unfilt_all",NA,NA,NA,"b010",680
+"Moraxellaceae","Psychrobacter sp. B-G-R2A4","none","none","unfilt_all",NA,NA,NA,"b010",383
+"Moraxellaceae","Psychrobacter sp. BAB-4861","none","none","unfilt_all",NA,NA,NA,"b010",52
+"Moraxellaceae","Psychrobacter sp. CJNY51","none","none","unfilt_all",NA,NA,NA,"b010",103
+"Moraxellaceae","Psychrobacter sp. DVS 9a","Gasterosteidae","Gasterosteus aculeatus","unfilt_all",NA,NA,NA,"b010",153
+"Moraxellaceae","Psychrobacter sp. HTGH2","none","none","unfilt_all",NA,NA,NA,"b010",34
+"Moraxellaceae","Psychrobacter sp. K4-28-036","none","none","unfilt_all",NA,NA,NA,"b010",33
+"Moraxellaceae","Psychrobacter sp. L7","none","none","unfilt_all",NA,NA,NA,"b010",306
+"Moraxellaceae","Psychrobacter sp. YDC2-I","none","none","unfilt_all",NA,NA,NA,"b010",51
+"Moraxellaceae","Psychrobacter sp. Z11(2010)","none","none","unfilt_all",NA,NA,NA,"b010",132
+"Moraxellaceae","Psychrobacter submarinus","none","none","unfilt_all",NA,NA,NA,"b010",41
+"none","Antarctic bacterium R-12605","none","none","unfilt_all",NA,NA,NA,"b010",32
+"none","Codakia orbicularis gill symbiont","none","none","unfilt_all",NA,NA,NA,"b010",15
+"none","gamma proteobacterium 14III/A01/031","none","none","unfilt_all",NA,NA,NA,"b010",330
+"none","gamma proteobacterium alk8","none","none","unfilt_all",NA,NA,NA,"b010",19
+"none","gamma proteobacterium HTCC230","none","none","unfilt_all",NA,NA,NA,"b010",61
+"none","gamma proteobacterium HTCC6370","none","none","unfilt_all",NA,NA,NA,"b010",86
+"none","gamma proteobacterium SCGC AAA007-N18","none","none","unfilt_all",NA,NA,NA,"b010",48
+"none","gamma proteobacterium SCGC AAA076-E13","none","none","unfilt_all",NA,NA,NA,"b010",36
+"none","gamma proteobacterium SCGC AAA076-F07","none","none","unfilt_all",NA,NA,NA,"b010",254
+"none","gamma proteobacterium SCGC AAA076-G04","none","none","unfilt_all",NA,NA,NA,"b010",290
+"none","gamma proteobacterium SCGC AAA158-B14","none","none","unfilt_all",NA,NA,NA,"b010",727
+"none","gamma proteobacterium SCGC AAA158-J08","none","none","unfilt_all",NA,NA,NA,"b010",1781
+"none","gamma proteobacterium SCGC AAA160-D02","none","none","unfilt_all",NA,NA,NA,"b010",74
+"none","gamma proteobacterium SCGC AAA160-E15","none","none","unfilt_all",NA,NA,NA,"b010",38
+"none","gamma proteobacterium SCGC AAA160-L02","none","none","unfilt_all",NA,NA,NA,"b010",97
+"none","gamma proteobacterium SCGC AAA160-L22","none","none","unfilt_all",NA,NA,NA,"b010",40
+"none","gamma proteobacterium SCGC AAA160-M14","none","none","unfilt_all",NA,NA,NA,"b010",82
+"none","gamma proteobacterium SCGC AAA160-O03","none","none","unfilt_all",NA,NA,NA,"b010",16
+"none","gamma proteobacterium SCGC AAA160-O04","none","none","unfilt_all",NA,NA,NA,"b010",392
+"none","gamma proteobacterium UMB21A","none","none","unfilt_all",NA,NA,NA,"b010",17
+"none","Gammaproteobacteria bacterium LSUCC0220","none","none","unfilt_all",NA,NA,NA,"b010",59
+"none","OM182 bacterium D4","none","none","unfilt_all",NA,NA,NA,"b010",3523
+"none","sulfur-oxidizing bacterium NDII1.1","none","none","unfilt_all",NA,NA,NA,"b010",21
+"Hahellaceae","Allohahella marinimesophila","none","none","unfilt_all",NA,NA,NA,"b010",21
+"Oceanospirillaceae","Marinobacterium sp. IMCC1424","none","none","unfilt_all",NA,NA,NA,"b010",30
+"Pseudomonadaceae","Pseudomonas baetica","none","none","unfilt_all",NA,NA,NA,"b010",940
+"Pseudomonadaceae","Pseudomonas jessenii","none","none","unfilt_all",NA,NA,NA,"b010",22372
+"Pseudomonadaceae","Pseudomonas migulae","none","none","unfilt_all",NA,NA,NA,"b010",12
+"Pseudomonadaceae","Pseudomonas oleovorans","none","none","unfilt_all",NA,NA,NA,"b010",26
+"Pseudomonadaceae","Pseudomonas sp.","none","none","unfilt_all",NA,NA,NA,"b010",249
+"Pseudomonadaceae","Pseudomonas sp. 3","Carangidae","Trachurus trachurus","unfilt_all",NA,NA,NA,"b010",132
+"Pseudomonadaceae","Pseudomonas sp. BAB-4341","none","none","unfilt_all",NA,NA,NA,"b010",1017
+"Pseudomonadaceae","Pseudomonas sp. BSL2A","none","none","unfilt_all",NA,NA,NA,"b010",786
+"Pseudomonadaceae","Pseudomonas sp. BWDY-42","none","none","unfilt_all",NA,NA,NA,"b010",12
+"Pseudomonadaceae","Pseudomonas sp. Da2","none","none","unfilt_all",NA,NA,NA,"b010",93
+"Pseudomonadaceae","Pseudomonas sp. DJHH69","none","none","unfilt_all",NA,NA,NA,"b010",19
+"Pseudomonadaceae","Pseudomonas sp. enrichment culture clone 24P","none","none","unfilt_all",NA,NA,NA,"b010",69
+"Pseudomonadaceae","Pseudomonas sp. F3-44","none","none","unfilt_all",NA,NA,NA,"b010",17
+"Pseudomonadaceae","Pseudomonas sp. JQR2-5","none","none","unfilt_all",NA,NA,NA,"b010",21
+"Pseudomonadaceae","Pseudomonas sp. k9","none","none","unfilt_all",NA,NA,NA,"b010",12
+"Pseudomonadaceae","Pseudomonas sp. LM6","none","none","unfilt_all",NA,NA,NA,"b010",204
+"Pseudomonadaceae","Pseudomonas sp. MMRF1045","none","none","unfilt_all",NA,NA,NA,"b010",13
+"Pseudomonadaceae","Pseudomonas sp. N1-6a","none","none","unfilt_all",NA,NA,NA,"b010",12
+"Pseudomonadaceae","Pseudomonas sp. RAZ","none","none","unfilt_all",NA,NA,NA,"b010",16
+"Pseudomonadaceae","Pseudomonas sp. SC-A5-7","none","none","unfilt_all",NA,NA,NA,"b010",19
+"Pseudomonadaceae","Pseudomonas sp. SMB12","none","none","unfilt_all",NA,NA,NA,"b010",133
+"Pseudomonadaceae","Pseudomonas sp. STX2","none","none","unfilt_all",NA,NA,NA,"b010",16
+"Pseudomonadaceae","Pseudomonas sp. T10(2011)","none","none","unfilt_all",NA,NA,NA,"b010",19
+"Pseudomonadaceae","Pseudomonas sp. USTB-04","none","none","unfilt_all",NA,NA,NA,"b010",68
+"Pseudomonadaceae","Pseudomonas sp. WR24","none","none","unfilt_all",NA,NA,NA,"b010",49
+"Pseudomonadaceae","Pseudomonas stutzeri","none","none","unfilt_all",NA,NA,NA,"b010",14
+"Thiofilaceae","Thiofilum flexile","none","none","unfilt_all",NA,NA,NA,"b010",38
+"Thiotrichaceae","Achromatium oxaliferum","none","none","unfilt_all",NA,NA,NA,"b010",23
+"Thiotrichaceae","Thiothrix sp. FBR0112","none","none","unfilt_all",NA,NA,NA,"b010",17
+"Thiotrichaceae","Thiothrix unzii","none","none","unfilt_all",NA,NA,NA,"b010",12
+"Vibrionaceae","Vibrio anguillarum","none","none","unfilt_all",NA,NA,NA,"b010",27
+"Vibrionaceae","Vibrio sp. 2YDI14","none","none","unfilt_all",NA,NA,NA,"b010",28
+"Vibrionaceae","Vibrio sp. 741M","none","none","unfilt_all",NA,NA,NA,"b010",33
+"Vibrionaceae","Vibrio sp. Col 52","none","none","unfilt_all",NA,NA,NA,"b010",29
+"Vibrionaceae","Vibrio sp. E505-2","none","none","unfilt_all",NA,NA,NA,"b010",199
+"Vibrionaceae","Vibrio sp. FCH-27","none","none","unfilt_all",NA,NA,NA,"b010",90
+"Vibrionaceae","Vibrio sp. LJSD1","none","none","unfilt_all",NA,NA,NA,"b010",35
+"Vibrionaceae","Vibrio sp. Mel 35","none","none","unfilt_all",NA,NA,NA,"b010",267
+"Vibrionaceae","Vibrio sp. R-1556","none","none","unfilt_all",NA,NA,NA,"b010",93
+"Vibrionaceae","Vibrio sp. RAS36","Gasterosteidae","Gasterosteus aculeatus","unfilt_all",NA,NA,NA,"b010",400
+"Vibrionaceae","Vibrio sp. SYS6-01","none","none","unfilt_all",NA,NA,NA,"b010",13
+"Vibrionaceae","Vibrio sp. UST001026-0032","none","none","unfilt_all",NA,NA,NA,"b010",22
+"Rhodanobacteraceae","Aquimonas sp. BN","none","none","unfilt_all",NA,NA,NA,"b010",64
+"Klebsormidiaceae","Interfilum terricola","none","none","unfilt_all",NA,NA,NA,"b010",67
+"Bovidae","Bos indicus","none","none","unfilt_all",NA,NA,NA,"b010",355
+"Bovidae","Bos primigenius","none","none","unfilt_all",NA,NA,NA,"b010",341
+"Suidae","Sus scrofa","none","none","unfilt_all",NA,NA,NA,"b010",1151
+"Hominidae","Homo sapiens","none","none","unfilt_all",NA,NA,NA,"b010",2792
+"none","agricultural soil bacterium SC-I-70","none","none","unfilt_all",NA,NA,NA,"b010",21
+"none","agricultural soil bacterium SC-I-73","none","none","unfilt_all",NA,NA,NA,"b010",28
+"none","bacterium Antarctica-21","none","none","unfilt_all",NA,NA,NA,"b010",31
+"none","bacterium B1-C1-P4E1","none","none","unfilt_all",NA,NA,NA,"b010",20
+"none","bacterium BH98-203","none","none","unfilt_all",NA,NA,NA,"b010",579
+"none","bacterium BI-33","none","none","unfilt_all",NA,NA,NA,"b010",163
+"none","bacterium enrichment culture clone 16(2012b)","none","none","unfilt_all",NA,NA,NA,"b010",39
+"none","bacterium enrichment culture clone 25(2013)","none","none","unfilt_all",NA,NA,NA,"b010",58
+"none","bacterium enrichment culture clone 3_90","none","none","unfilt_all",NA,NA,NA,"b010",34
+"none","bacterium enrichment culture clone 33(2013)","none","none","unfilt_all",NA,NA,NA,"b010",15
+"none","bacterium enrichment culture clone 46","none","none","unfilt_all",NA,NA,NA,"b010",24
+"none","bacterium enrichment culture clone 51","none","none","unfilt_all",NA,NA,NA,"b010",17
+"none","bacterium enrichment culture clone 58","none","none","unfilt_all",NA,NA,NA,"b010",14
+"none","bacterium enrichment culture clone 67","none","none","unfilt_all",NA,NA,NA,"b010",62
+"none","bacterium enrichment culture clone B18(2011)","none","none","unfilt_all",NA,NA,NA,"b010",37
+"none","bacterium enrichment culture clone B213(2011)","none","none","unfilt_all",NA,NA,NA,"b010",811
+"none","bacterium enrichment culture clone B55(2011)","none","none","unfilt_all",NA,NA,NA,"b010",159
+"none","bacterium enrichment culture clone B6_30","none","none","unfilt_all",NA,NA,NA,"b010",35
+"none","bacterium enrichment culture clone BD20","none","none","unfilt_all",NA,NA,NA,"b010",23
+"none","bacterium enrichment culture clone BSK_70","none","none","unfilt_all",NA,NA,NA,"b010",28
+"none","bacterium enrichment culture clone CL-9","none","none","unfilt_all",NA,NA,NA,"b010",805
+"none","bacterium enrichment culture clone IsoM-7","none","none","unfilt_all",NA,NA,NA,"b010",19
+"none","bacterium enrichment culture clone PAH105-P10","none","none","unfilt_all",NA,NA,NA,"b010",39
+"none","bacterium enrichment culture clone PAH41-P14","none","none","unfilt_all",NA,NA,NA,"b010",112
+"none","bacterium enrichment culture clone SRAO_28","none","none","unfilt_all",NA,NA,NA,"b010",15
+"none","bacterium enrichment culture clone SRAO_29","none","none","unfilt_all",NA,NA,NA,"b010",14
+"none","bacterium HTCC4101","none","none","unfilt_all",NA,NA,NA,"b010",1309
+"none","bacterium HTCC4145","none","none","unfilt_all",NA,NA,NA,"b010",1702
+"none","bacterium PSB-1-28","none","none","unfilt_all",NA,NA,NA,"b010",61
+"none","bacterium SCGC AAA071-D23","none","none","unfilt_all",NA,NA,NA,"b010",12
+"none","bacterium SCGC AAA074-C03","none","none","unfilt_all",NA,NA,NA,"b010",115
+"none","bacterium SCGC AAA074-J04","none","none","unfilt_all",NA,NA,NA,"b010",103
+"none","bacterium SCGC AAA074-L02","none","none","unfilt_all",NA,NA,NA,"b010",90
+"none","bacterium SCGC AAA074-P13","none","none","unfilt_all",NA,NA,NA,"b010",397
+"none","bacterium SH1-3","none","none","unfilt_all",NA,NA,NA,"b010",30
+"none","bacterium SH5-3","none","none","unfilt_all",NA,NA,NA,"b010",34
+"none","bacterium WH6-7","none","none","unfilt_all",NA,NA,NA,"b010",34
+"none","bacterium YC-LK-LKJ11","none","none","unfilt_all",NA,NA,NA,"b010",22
+"none","bacterium YC-ZSS-LKJ70","none","none","unfilt_all",NA,NA,NA,"b010",624
+"none","Bacteroidetes bacterium enrichment culture clone LiUU-18-740","none","none","unfilt_all",NA,NA,NA,"b010",21
+"none","Bacteroidetes bacterium enrichment culture clone OCL_P2D11","none","none","unfilt_all",NA,NA,NA,"b010",15
+"none","Bacteroidetes bacterium S10/1","none","none","unfilt_all",NA,NA,NA,"b010",268
+"none","Bacteroidetes bacterium SCGC AAA027-D14","none","none","unfilt_all",NA,NA,NA,"b010",36
+"none","Bacteroidetes bacterium SCGC AAA027-E17","none","none","unfilt_all",NA,NA,NA,"b010",418
+"none","Bacteroidetes bacterium SCGC AAA027-J08","none","none","unfilt_all",NA,NA,NA,"b010",85
+"none","Bacteroidetes bacterium SCGC AAA027-L18","none","none","unfilt_all",NA,NA,NA,"b010",112
+"none","Bacteroidetes bacterium SCGC AAA027-M20","none","none","unfilt_all",NA,NA,NA,"b010",12
+"none","Bacteroidetes bacterium SCGC AAA027-P14","none","none","unfilt_all",NA,NA,NA,"b010",71
+"none","Bacteroidetes bacterium SCGC AAA041-P17","none","none","unfilt_all",NA,NA,NA,"b010",66
+"none","Bacteroidetes bacterium SCGC AAA160-B09","none","none","unfilt_all",NA,NA,NA,"b010",22
+"none","Bacteroidetes bacterium SCGC AAA160-F08","none","none","unfilt_all",NA,NA,NA,"b010",93
+"none","Bacteroidetes bacterium SCGC AAA160-G10","none","none","unfilt_all",NA,NA,NA,"b010",14
+"none","Bacteroidetes bacterium SCGC AAA206-C09","none","none","unfilt_all",NA,NA,NA,"b010",162
+"none","candidate division SR1 bacterium Aalborg_AAW-1","none","none","unfilt_all",NA,NA,NA,"b010",369
+"none","candidate division SR1 bacterium RAAC1_SR1_1","none","none","unfilt_all",NA,NA,NA,"b010",55
+"none","candidate division TM6 bacterium GW2011_GWE2_41_16","none","none","unfilt_all",NA,NA,NA,"b010",20
+"none","candidate division TM7 bacterium enrichment culture clone B11-B-31","none","none","unfilt_all",NA,NA,NA,"b010",993
+"none","Candidatus Peregrinibacteria bacterium GW2011_GWA2_33_10","none","none","unfilt_all",NA,NA,NA,"b010",58
+"none","Candidatus Peregrinibacteria bacterium GW2011_GWC2_39_14","none","none","unfilt_all",NA,NA,NA,"b010",14
+"none","Candidatus Peregrinibacteria bacterium GW2011_GWF2_43_17","none","none","unfilt_all",NA,NA,NA,"b010",13
+"none","Chloroflexi bacterium enrichment culture","none","none","unfilt_all",NA,NA,NA,"b010",14
+"none","cyanobacterium enrichment culture clone D_4_D.3.4_T7","none","none","unfilt_all",NA,NA,NA,"b010",21
+"none","endosymbiont of Vestimentiferan tubeworm","none","none","unfilt_all",NA,NA,NA,"b010",303
+"none","Epidulcina delphinae gill symbiont","none","none","unfilt_all",NA,NA,NA,"b010",416
+"none","Epidulcina delphinae gill symbiont","Cyclopteridae","Cyclopterus lumpus","unfilt_all",NA,NA,NA,"b010",416
+"none","estrogen-degrading bacterium KC12","none","none","unfilt_all",NA,NA,NA,"b010",283
+"none","eukaryote SCGC AAA071-M11","none","none","unfilt_all",NA,NA,NA,"b010",20
+"none","eukaryote SCGC AAA074-A03","none","none","unfilt_all",NA,NA,NA,"b010",28
+"none","eukaryote SCGC AAA074-F18","none","none","unfilt_all",NA,NA,NA,"b010",373
+"none","Gemmatimonadetes bacterium SCGC AAA240-N17","none","none","unfilt_all",NA,NA,NA,"b010",20
+"none","Gemmatimonadetes bacterium SCGC AAA288-M07","none","none","unfilt_all",NA,NA,NA,"b010",69
+"none","marine bacterium CS-71","none","none","unfilt_all",NA,NA,NA,"b010",1492
+"none","marine bacterium enrichment culture clone C01-B1-S5","none","none","unfilt_all",NA,NA,NA,"b010",48
+"none","marine bacterium enrichment culture clone E01-C1-S7","none","none","unfilt_all",NA,NA,NA,"b010",49
+"none","marine bacterium enrichment culture clone I05-E3-S7","none","none","unfilt_all",NA,NA,NA,"b010",61
+"none","marine bacterium enrichment culture clone K21-F11-S5","none","none","unfilt_all",NA,NA,NA,"b010",292
+"none","marine bacterium HD-14","none","none","unfilt_all",NA,NA,NA,"b010",81
+"none","marine bacterium WP02-1-40A","none","none","unfilt_all",NA,NA,NA,"b010",89
+"none","marine proteobacterium MS-8","none","none","unfilt_all",NA,NA,NA,"b010",673
+"none","marine sponge bacterium FILTER13C237","Sebastidae","Helicolenus dactylopterus","unfilt_all",NA,NA,NA,"b010",21
+"none","marine sponge bacterium FILTEROTU17","none","none","unfilt_all",NA,NA,NA,"b010",36
+"none","methanogenic prokaryote enrichment culture B31_1_36","none","none","unfilt_all",NA,NA,NA,"b010",14
+"none","none","none","none","unfilt_all",NA,NA,NA,"b010",10121
+"none","Planctomycetes bacterium SCGC AAA158-E19","none","none","unfilt_all",NA,NA,NA,"b010",29
+"none","Planctomycetes bacterium SCGC AAA202-E02","none","none","unfilt_all",NA,NA,NA,"b010",437
+"none","Planctomycetes bacterium SCGC AAA300-E19","none","none","unfilt_all",NA,NA,NA,"b010",15
+"none","potato plant root bacterium RC-III-8","none","none","unfilt_all",NA,NA,NA,"b010",163
+"none","sponge bacterium Zo2","none","none","unfilt_all",NA,NA,NA,"b010",568
+"none","SR1 bacterium canine oral taxon 369","none","none","unfilt_all",NA,NA,NA,"b010",251
+"none","SR1 bacterium canine oral taxon 382","none","none","unfilt_all",NA,NA,NA,"b010",246
+"none","SR1 bacterium human oral taxon HOT-345","none","none","unfilt_all",NA,NA,NA,"b010",89
+"none","uncultured Bacteroidetes bacterium","none","none","unfilt_all",NA,NA,NA,"b010",653
+"none","uncultured Candidatus Saccharimonas sp.","none","none","unfilt_all",NA,NA,NA,"b010",60
+"none","uncultured cyanobacterium","none","none","unfilt_all",NA,NA,NA,"b010",43
+"none","uncultured organism","none","none","unfilt_all",NA,NA,NA,"b010",412
+"none","uncultured prokaryote","none","none","unfilt_all",NA,NA,NA,"b010",61
+"none","uncultured soil bacterium","none","none","unfilt_all",NA,NA,NA,"b010",30
+"none","unidentified archaeon","none","none","unfilt_all",NA,NA,NA,"b010",14
+"none","unidentified bacterium wb1_B19","none","none","unfilt_all",NA,NA,NA,"b010",12
+"none","unidentified bacterium wb1_P06","none","none","unfilt_all",NA,NA,NA,"b010",53
+"none","unidentified marine bacterioplankton","none","none","unfilt_all",NA,NA,NA,"b010",12677
+"none","unidentified rhodophyte PRD01a010B","none","none","unfilt_all",NA,NA,NA,"b010",169
+"none","Vermiphilus pyriformis","none","none","unfilt_all",NA,NA,NA,"b010",19
+"none","Verrucomicrobia bacterium SCGC AAA024-I18","none","none","unfilt_all",NA,NA,NA,"b010",436
+"none","Verrucomicrobia bacterium SCGC AAA164-A08","none","none","unfilt_all",NA,NA,NA,"b010",83
+"none","Verrucomicrobia bacterium SCGC AAA280-P14","none","none","unfilt_all",NA,NA,NA,"b010",48
+"Peronosporaceae","Pseudoperonospora cubensis","none","none","unfilt_all",NA,NA,NA,"b010",17
+"none","Virgulinella fragilis","none","none","unfilt_all",NA,NA,NA,"b010",421
+"Bacteriovoracaceae","Bacteriovorax sp. B2T4-S","none","none","unfilt_all",NA,NA,NA,"b010",19
+"Bacteriovoracaceae","Bacteriovorax sp. WAIKIKKI16","none","none","unfilt_all",NA,NA,NA,"b010",13
+"Bdellovibrionaceae","Bdellovibrio sp. JS3","none","none","unfilt_all",NA,NA,NA,"b010",24
+"Pseudobacteriovoracaceae","Pseudobacteriovorax antillogorgiicola","none","none","unfilt_all",NA,NA,NA,"b010",37
+"Pirellulaceae","Pirellula sp.","none","none","unfilt_all",NA,NA,NA,"b010",15
+"Thermoguttaceae","Thermogutta terrifontis","none","none","unfilt_all",NA,NA,NA,"b010",17
+"none","uncultured planctomycete","none","none","unfilt_all",NA,NA,NA,"b010",356
+"Planctomycetaceae","Gimesia maris","none","none","unfilt_all",NA,NA,NA,"b010",12
+"Planctomycetaceae","planctomycete A-2","none","none","unfilt_all",NA,NA,NA,"b010",105
+"Planctomycetaceae","planctomycete GMD14H10","none","none","unfilt_all",NA,NA,NA,"b010",43
+"Saprospiraceae","Candidatus Aquirestis calciphila","none","none","unfilt_all",NA,NA,NA,"b010",29
+"none","humic substances enrichment clone D47","none","none","unfilt_all",NA,NA,NA,"b010",269
+"Sphingobacteriaceae","Pedobacter sp. N007N","none","none","unfilt_all",NA,NA,NA,"b010",42
+"Chlorellaceae","Chlorella sp. UMPCCC 1222","none","none","unfilt_all",NA,NA,NA,"b010",915
+"none","Picochlorum atomus","none","none","unfilt_all",NA,NA,NA,"b010",12
+"none","Picochlorum sp. PMFPPE4","none","none","unfilt_all",NA,NA,NA,"b010",285
+"none","Picochlorum sp. RCC846","none","none","unfilt_all",NA,NA,NA,"b010",1958
+"Koliellaceae","Raphidonema nivale","none","none","unfilt_all",NA,NA,NA,"b010",501
+"Kyphosidae","Kyphosus elegans","Scombridae","Thunnus thynnus","filt_excl_none",NA,NA,NA,"b010",423
+"Gobiidae","Nemateleotris magnifica","Pleuronectidae","Hippoglossus hippoglossus","filt_excl_none",NA,NA,NA,"b010",744
+"Gobiidae","Pomatoschistus minutus","Gobiidae","Pomatoschistus minutus","filt_excl_none",NA,NA,NA,"b010",391
+"Lethrinidae","Lethrinus nebulosus","Cyclopteridae","Cyclopterus lumpus","filt_excl_none",NA,NA,NA,"b010",189
+"Syngnathidae","Syngnathus typhle","Syngnathidae","Syngnathus typhle","filt_excl_none",NA,NA,NA,"b010",370
+"Caulobacteraceae","Brevundimonas sp. WPCB153","Molidae","Mola mola","filt_excl_none",NA,NA,NA,"b010",17
+"Roseobacteraceae","Roseovarius aestuarii","Gadidae","Gadus morhua","filt_excl_none",NA,NA,NA,"b010",17
+"Carcharhinidae","Triaenodon obesus","Carcharhinidae","Prionace glauca","filt_excl_none",NA,NA,NA,"b010",424
+"Enterobacteriaceae","Enterobacter asburiae","Cottidae","Taurulus bubalis","filt_excl_none",NA,NA,NA,"b010",405
+"Yersiniaceae","Yersinia sp. MAC","Gobiidae","Gobius niger","filt_excl_none",NA,NA,NA,"b010",1383
+"Moraxellaceae","Psychrobacter sp. Asnod3F05","Labridae","Ctenolabrus rupestris","filt_excl_none",NA,NA,NA,"b010",680
+"Moraxellaceae","Psychrobacter sp. DVS 9a","Gasterosteidae","Gasterosteus aculeatus","filt_excl_none",NA,NA,NA,"b010",153
+"Pseudomonadaceae","Pseudomonas sp. 3","Carangidae","Trachurus trachurus","filt_excl_none",NA,NA,NA,"b010",132
+"Vibrionaceae","Vibrio sp. RAS36","Gasterosteidae","Gasterosteus aculeatus","filt_excl_none",NA,NA,NA,"b010",400
+"none","Epidulcina delphinae gill symbiont","Cyclopteridae","Cyclopterus lumpus","filt_excl_none",NA,NA,NA,"b010",416
+"none","marine sponge bacterium FILTER13C237","Sebastidae","Helicolenus dactylopterus","filt_excl_none",NA,NA,NA,"b010",21
+"Acanthuridae","Acanthurus olivaceus","none","none","unfilt_only_Actinopterygi",NA,NA,NA,"b010",612
+"Atherinidae","Atherinomorus forskalii","none","none","unfilt_only_Actinopterygi",NA,NA,NA,"b010",24
+"Carangidae","Scomberoides commersonnianus","none","none","unfilt_only_Actinopterygi",NA,NA,NA,"b010",14
+"Kyphosidae","Kyphosus elegans","Scombridae","Thunnus thynnus","unfilt_only_Actinopterygi",NA,NA,NA,"b010",423
+"Moridae","Antimora microlepis","none","none","unfilt_only_Actinopterygi",NA,NA,NA,"b010",41
+"Gobiidae","Nemateleotris magnifica","Pleuronectidae","Hippoglossus hippoglossus","unfilt_only_Actinopterygi",NA,NA,NA,"b010",744
+"Gobiidae","Pomatoschistus minutus","Gobiidae","Pomatoschistus minutus","unfilt_only_Actinopterygi",NA,NA,NA,"b010",391
+"Labridae","Scarus schlegeli","none","none","unfilt_only_Actinopterygi",NA,NA,NA,"b010",141
+"Haemulidae","Plectorhinchus chaetodonoides","none","none","unfilt_only_Actinopterygi",NA,NA,NA,"b010",2599
+"Haemulidae","Plectorhinchus lessonii","none","none","unfilt_only_Actinopterygi",NA,NA,NA,"b010",76
+"Lutjanidae","Pinjalo pinjalo","none","none","unfilt_only_Actinopterygi",NA,NA,NA,"b010",108
+"Pomacanthidae","Pomacanthus xanthometopon","none","none","unfilt_only_Actinopterygi",NA,NA,NA,"b010",422
+"Lethrinidae","Lethrinus atkinsoni","none","none","unfilt_only_Actinopterygi",NA,NA,NA,"b010",13
+"Lethrinidae","Lethrinus nebulosus","Cyclopteridae","Cyclopterus lumpus","unfilt_only_Actinopterygi",NA,NA,NA,"b010",189
+"Mullidae","Parupeneus indicus","none","none","unfilt_only_Actinopterygi",NA,NA,NA,"b010",92
+"Syngnathidae","Syngnathus typhle","Syngnathidae","Syngnathus typhle","unfilt_only_Actinopterygi",NA,NA,NA,"b010",370
+"Uranoscopidae","Uranoscopus chinensis","none","none","unfilt_only_Actinopterygi",NA,NA,NA,"b010",16
+"Bovidae","Bos indicus","none","none","unfilt_only_Actinopterygi",NA,NA,NA,"b010",355
+"Bovidae","Bos primigenius","none","none","unfilt_only_Actinopterygi",NA,NA,NA,"b010",341
+"Suidae","Sus scrofa","none","none","unfilt_only_Actinopterygi",NA,NA,NA,"b010",1151
+"Hominidae","Homo sapiens","none","none","unfilt_only_Actinopterygi",NA,NA,NA,"b010",2792
