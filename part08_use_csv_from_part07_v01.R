@@ -423,7 +423,10 @@ p07
 
 # see this example: https://www.datanovia.com/en/blog/ggplot-title-subtitle-and-caption/
 #caption = "Data source: ToothGrowth")
-p07t <- p07 + labs(title = "A")#,
+#p07t <- p07 + labs(title = "A")#,
+p07t <- p07 + labs(title = paste("A - fish reads two primersets ", smpl_per,sep=""))#,
+
+
 # ------------- plot Combined figure -------------
 library(patchwork)
 # set a variable to TRUE to determine whether to save figures
