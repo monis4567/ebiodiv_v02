@@ -236,6 +236,10 @@ stbp03 <- ggplot(df05,aes(prmst,sum_rdcnt ,fill = gnsp))+
 stbp03
 
 
+#_______________________________________________________________________________
+# this stbp04 plot is not working - start
+#_______________________________________________________________________________
+
 #add back the total count of reads for sample site per primerset
 # calculated in the tibble
 df05$totrcnt <- tibl_03$Freq[match(df05$MSTNo_smpln,tibl_03$MSTNo_smpln)]
@@ -281,6 +285,10 @@ stbp04 <- ggplot(tibl06,aes(prmst,sum_rdcnt ,fill = gnsp))+
   facet_grid(.~MSTNo)
 # see the plot
 stbp04
+#_______________________________________________________________________________
+# this stbp04 plot is not working - end
+#_______________________________________________________________________________
+
 #_______________________________________________________________________________
 # make stacked bar plots - end
 #_______________________________________________________________________________
