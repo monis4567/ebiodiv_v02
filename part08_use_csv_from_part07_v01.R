@@ -235,9 +235,6 @@ stbp03 <- ggplot(df05,aes(prmst,sum_rdcnt ,fill = gnsp))+
 # see the plot
 stbp03
 
-
-#_______________________________________________________________________________
-# this stbp04 plot is not working - start
 #_______________________________________________________________________________
 
 #add back the total count of reads for sample site per primerset
@@ -253,6 +250,9 @@ tibl06 <- df05 %>% group_by(gnsp, prmst, MSTNo) %>%
   #group_by(prmst, MSTNo) %>% 
   #mutate(pos = (cumsum(sum_rdcnt)/totrcnt*100 -sum_rdcnt/cumsum(sum_rdcnt)/totrcnt*100)/2)
   mutate(pos = 1- 0.5*sum_rdcnt/totrcnt*100) #%>%
+#add a line break to species names
+# tibl06 <- tibl06 %>%
+#     mutate(gnsp2=stringr::str_replace(gnsp," ","\n"))
 
 # make rainbow colour range
 rbwclr <- rainbow(length(unique(tibl06$blast_filt_class_ord_fam_gen_spc)))
@@ -266,8 +266,8 @@ stbp04 <- ggplot(tibl06,aes(prmst,sum_rdcnt ,fill = gnsp))+
   geom_hline(yintercept=0.75,  col = "black",lty=2) +
   theme_grey()+
   
-  geom_text(aes(x=prmst, y=pos, label = gnsp)
-            , vjust = 0,  size = 2) +
+  geom_text(aes(y =sum_rdcnt, label = gnsp), 
+            position=position_fill(vjust=0.5), size=2) +
   
   xlab("primer set name")+
   ylab("percentage of reads")+
@@ -286,10 +286,142 @@ stbp04 <- ggplot(tibl06,aes(prmst,sum_rdcnt ,fill = gnsp))+
 # see the plot
 stbp04
 #_______________________________________________________________________________
-# this stbp04 plot is not working - end
-#_______________________________________________________________________________
+
+#add back the total count of reads for sample site per primerset
+# calculated in the tibble
+df05$totrcnt <- tibl_03$Freq[match(df05$MSTNo_smpln,tibl_03$MSTNo_smpln)]
+# use dplyr to count per group and use mutate to calculate the
+# mid point position for placing the text label in the middle of the section of
+# thre staacked bar plots
+tibl06 <- df05 %>% group_by(gnsp, prmst, MSTNo) %>%
+  #tally(sum_rdcnt) %>% 
+  ungroup %>%
+  arrange(desc(gnsp)) %>% 
+  #group_by(prmst, MSTNo) %>% 
+  #mutate(pos = (cumsum(sum_rdcnt)/totrcnt*100 -sum_rdcnt/cumsum(sum_rdcnt)/totrcnt*100)/2)
+  mutate(pos = 1- 0.5*sum_rdcnt/totrcnt*100) #%>%
+#add a line break to species names
+tibl06 <- tibl06 %>%
+  mutate(gnsp2=stringr::str_replace(gnsp," ","\n"))
+
+# make rainbow colour range
+rbwclr <- rainbow(length(unique(tibl06$blast_filt_class_ord_fam_gen_spc)))
+# make viridis colour range
+vclr <- pals::viridis(length(unique(tibl06$blast_filt_class_ord_fam_gen_spc)))
+#make stacked bar plot with ggplot2
+stbp05 <- ggplot(tibl06,aes(prmst,sum_rdcnt ,fill = gnsp))+
+  geom_bar(position = "fill",stat="identity", width = 0.9)+
+  geom_hline(yintercept=0.25, col = "black", lty=2) +
+  geom_hline(yintercept=0.5,  col = "black",lty=2) +
+  geom_hline(yintercept=0.75,  col = "black",lty=2) +
+  theme_grey()+
+  
+  geom_text(aes(y =sum_rdcnt, label = gnsp2), 
+            position=position_fill(vjust=0.5), size=2) +
+  
+  xlab("primer set name")+
+  ylab("percentage of reads")+
+  scale_fill_manual(values = rbwclr)+
+  scale_y_continuous(labels = function(x) paste0(x*100, "%"))+
+  ggtitle("B - fish reads two primersets")+
+  
+  theme(legend.position = "bottom",
+        axis.text.x = element_text(angle=45, vjust = 0.5),
+        legend.text = element_text(size = 10,face="italic"),
+        legend.title = element_text(size = 20),
+        axis.text.y = element_text(size = 20),
+        strip.text.x = element_text(size = 10,face="bold"),
+        title = element_text(size = 12))+
+  facet_grid(.~MSTNo)
+# see the plot
+stbp05
 
 #_______________________________________________________________________________
+#Følgende kode laver labels (tibl06$gnsp2) kun til bars hvor sum_rdcnt er mindst 3% af total
+#Så bliver de mindste bars uden labels.
+tibl06 <- tibl06 %>%
+  group_by(MSTNo,prmst) %>%
+  mutate(pct=100*sum_rdcnt/sum(sum_rdcnt,na.rm=T)) %>%
+  ungroup() %>%
+  mutate(gnsp2=ifelse(pct>3,
+                      stringr::str_replace(gnsp," ","\n"),
+                      ""))
+#Har også et par andre forslag til figuren:
+#Legenden flyttet ltil højre side
+#Legend.key.size er sat til 0.58 cm (størrelsen på de
+#farvede firkanter i legenden).
+#Det passer med at jeg gemmer png fil i størrelsen 20x30cm.
+#Det skal justeres for andre størrelser.
+#Tomt rum omkring kollenerne fjernet med expand=F i funktionen coord_cartesian
+
+stbp06 <- ggplot(tibl06,aes(prmst,sum_rdcnt ,fill = gnsp))+
+  geom_bar(position = "fill",stat="identity", width = 0.9)+
+  geom_hline(yintercept=0.25, col = "black", lty=2) +
+  geom_hline(yintercept=0.5,  col = "black",lty=2) +
+  geom_hline(yintercept=0.75,  col = "black",lty=2) +
+  theme_grey()+
+  geom_text(aes(y =sum_rdcnt, label = gnsp2), position=position_fill(vjust=0.5), 
+            size=2, fontface="italic") +
+  xlab("primer set name")+
+  ylab("percentage of reads")+
+  scale_fill_manual(values = rbwclr)+
+  scale_y_continuous(labels = function(x) paste0(x*100, "%")) +
+  ggtitle("B - fish reads two primersets")+
+  guides(fill= guide_legend(ncol=1)) +
+  theme(legend.position = "right",
+        axis.text.x = element_text(angle=45, vjust = 0.5),
+        legend.text = element_text(size = 10,face="italic"),
+        legend.title = element_text(size = 20),
+        legend.key.size = unit(0.57,"cm"),
+        legend.justification = "bottom",       
+        axis.text.y = element_text(size = 20),
+        strip.text.x = element_text(size = 10,face="bold"),
+        title = element_text(size = 12))+
+  facet_grid(.~MSTNo) +
+  coord_cartesian(expand=F)
+# see the plot
+stbp06
+outppthf6 <- paste(wd00_wd08,"/Fig06_stckbarplot_02.png",sep="")
+
+ggsave(stbp06,file=outppthf6,height=20,width=30,units="cm",dpi=300)
+
+
+#______________________________________________________________________________
+
+stbp07 <- ggplot(tibl06,aes(prmst,sum_rdcnt ,fill = gnsp))+
+  geom_bar(position = "fill",stat="identity", width = 0.9, 
+           #the 'color="#000000",size=0.1' adds a thin line between 
+           # individual parts of the bar in the satcked bar
+           color="#000000",size=0.1)+
+  geom_hline(yintercept=0.25, col = "black", lty=2) +
+  geom_hline(yintercept=0.5,  col = "black",lty=2) +
+  geom_hline(yintercept=0.75,  col = "black",lty=2) +
+  theme_grey()+
+  geom_text(aes(y =sum_rdcnt, label = gnsp2), position=position_fill(vjust=0.5), 
+            size=2, fontface="italic") +
+  xlab("primer set name")+
+  ylab("percentage of reads from eukaryotes")+
+  scale_fill_manual(values = vclr)+
+  scale_y_continuous(labels = function(x) paste0(x*100, "%")) +
+  ggtitle("B - fish reads two primersets, procaryotes excluded")+
+  guides(fill= guide_legend(ncol=1)) +
+  theme(legend.position = "right",
+        axis.text.x = element_text(angle=45, vjust = 0.5),
+        legend.text = element_text(size = 10,face="italic"),
+        legend.title = element_text(size = 20),
+        legend.key.size = unit(0.57,"cm"),
+        legend.justification = "bottom",       
+        axis.text.y = element_text(size = 20),
+        strip.text.x = element_text(size = 10,face="bold"),
+        title = element_text(size = 12))+
+  facet_grid(.~MSTNo) +
+  coord_cartesian(expand=F)
+# see the plot
+stbp07
+outppthf7 <- paste(wd00_wd08,"/Fig07_stckbarplot_02.png",sep="")
+
+ggsave(stbp07,file=outppthf7,height=20,width=30,units="cm",dpi=300)
+
 # make stacked bar plots - end
 #_______________________________________________________________________________
 
@@ -366,7 +498,7 @@ jitlvl <- 0.017
 library(shadowtext)
 
 # also see : https://github.com/tidyverse/ggplot2/issues/2037
-p07 <- ggplot(data = world) +
+p08 <- ggplot(data = world) +
   geom_map(map=world, aes(map_id=region), fill="grey",
            color="black") +
   #geom_sf(color = "black", fill = "azure3") +
@@ -417,22 +549,22 @@ p07 <- ggplot(data = world) +
   ggtitle(paste("C - fish reads two primersets ", smpl_per,sep=""))
 
 # change labels on axis
-p07 <- p07 + xlab("longitude") + ylab("latitude")
+p08 <- p08 + xlab("longitude") + ylab("latitude")
 # change label for legend
 #change the header for the legend on the side, 
 #this must be done for both 'fill', 'color' and 'shape', to avoid 
 #getting separate legends
-p07 <- p07 + labs(fill='species found by eDNA reads')
-p07 <- p07 + labs(color='primerset used')
+p08 <- p08 + labs(fill='species found by eDNA reads')
+p08 <- p08 + labs(color='primerset used')
 
 # see the plot
-p07
+p08
 
 
 # see this example: https://www.datanovia.com/en/blog/ggplot-title-subtitle-and-caption/
 #caption = "Data source: ToothGrowth")
-#p07t <- p07 + labs(title = "A")#,
-p07t <- p07 + labs(title = paste("A - fish reads two primersets ", smpl_per,sep=""))#,
+#p08t <- p08 + labs(title = "A")#,
+p08t <- p08 + labs(title = paste("A - fish reads two primersets excluding procaryote reads ", smpl_per,sep=""))#,
 
 
 # ------------- plot Combined figure -------------
@@ -441,17 +573,17 @@ library(patchwork)
 bSaveFigures <- T
 #see this website: https://www.rdocumentation.org/packages/patchwork/versions/1.0.0
 # on how to arrange plots in patchwork
-p <-  p07t +
+p <-  p08t +
   plot_layout(nrow=1,byrow=T) + #xlab(xlabel) +
   plot_layout(guides = "collect")# +
   #plot_annotation(caption=inpf01) #& theme(legend.position = "bottom")
 #p
 #make filename to save plot to
-figname01 <- paste0("Fig07_pies_on_map_",smpl_per,"_01.png")
+figname08 <- paste0("Fig08_pies_on_map_",smpl_per,"_01.png")
 
-figname02 <- paste(wd00_wd08,"/",figname01,sep="")
+figname08 <- paste(wd00_wd08,"/",figname08,sep="")
 if(bSaveFigures==T){
-  ggsave(p,file=figname02,
+  ggsave(p,file=figname08,
          #width=210,height=297,
          width=297,height=210,
          units="mm",dpi=300)
