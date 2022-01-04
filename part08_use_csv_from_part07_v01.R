@@ -28,6 +28,7 @@ wd00 <- "/home/hal9000/Documents/shrfldubuntu18/ebiodiv_v02"
 wd08 <- "part08_out_analysis_from_csv"
 # define input directory for input files
 wd07 <- "csv_files_from_part07_2021dec10"
+wd07 <- "csv_files_from_part07_2022jan04"
 #make complete path to input dir
 wd00_wd08 <- paste(wd00,"/",wd08,sep="")
 #make complete path to output dir

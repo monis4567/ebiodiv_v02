@@ -28,6 +28,8 @@ inp_fn1 <- "part04_blast_blibnumber.results.01.txt"
 #inp_fn2 <- "part05_lst_species_of_fish_birds_mammals_in_Kenya_and_mock01.txt"
 inp_fn2 <- "part05_lst_species_of_fish_in_DK_and_PCMock.txt"
 inp_fn2 <- "part05_lst_species_of_marine_fish_in_DK.txt"
+inp_fn3 <- "part05_lst_species_of_marine_mammals_in_DK.txt"
+inp_fn4 <- "part05_lst_species_of_birds_in_DK.txt"
 #inp_fn2 <- "part05_lst_species_of_fish_birds_mammals_in_DK_and_mock01.txt"
 #define a filename to write out to
 outputfilenm1="part05_blast_blibnumber.results.02.txt"
@@ -56,7 +58,18 @@ raw_blast_results <- read.table(file=inp_fn1,sep='\t',header=F, fill=T)
 #head(raw_blast_results, 4)
 #Read in file to  columns seperated by space into data framë́
 # set 'fill=T' to TRUE to make sure that tables with irregular number of columns are read in as well
-lst_posibl_spc <- read.delim(file=inp_fn2,sep=' ',header=F, fill=T)
+lst_posibl_spc2 <- read.delim(file=inp_fn2,sep=' ',header=F, fill=T)
+lst_posibl_spc3 <- read.delim(file=inp_fn3,sep=' ',header=F, fill=T)
+lst_posibl_spc4 <- read.delim(file=inp_fn4,sep=' ',header=F, fill=T)
+
+#only retain 1st and second column
+lst_posibl_spc2 <- lst_posibl_spc2[,1:2]
+lst_posibl_spc3 <- lst_posibl_spc3[,1:2]
+lst_posibl_spc4 <- lst_posibl_spc4[,1:2]
+#bind rows together
+lst_posibl_spc <- rbind(lst_posibl_spc2,
+                        lst_posibl_spc3,
+                        lst_posibl_spc4)
 # check the first 4 rows of this data frame
 #head(lst_posibl_spc, 4)
 #change the header of the column names
